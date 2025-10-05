@@ -1,0 +1,39 @@
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+sqlalchemy>=2.0.0
+mysql-connector-python>=8.0.0
+
+# Data Analysis and Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+scipy>=1.10.0
+
+# Excel and File Processing
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Cryptographic and Hashing
+hashlib2>=1.0.0
+base58>=2.1.0
+
+# Deep Comparison and Diffing
+deepdiff>=6.3.0
+
+# Date and Time Processing
+python-dateutil>=2.8.0
+
+# Logging and Configuration
+pyyaml>=6.0
+
+# Optional: Enhanced Performance
+numba>=0.57.0
+
+# Optional: Additional Crypto Support
+cryptography>=40.0.0
+pycryptodome>=3.18.0
+
+# Optional: Enhanced Visualization
+bokeh>=3.2.0
+dash>=2.11.0

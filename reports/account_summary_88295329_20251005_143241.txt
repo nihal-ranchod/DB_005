@@ -1,0 +1,85 @@
+Account Table Summary Report
+Generated: 2025-10-05 14:32:41
+Account Number: 88295329
+================================================================================
+
+ACCOUNT TABLE SUMMARY - Account: 88295329
+================================================================================
+Report will be saved to: reports/account_summary_88295329_20251005_143241.txt
+
+Scanning all tables for account data...
+--------------------------------------------------------------------------------
+
+Scanning RAW DATABASE: crypto_transactions_raw
+--------------------------------------------------
+Total tables in raw database: 163
+credit_debit                   | user_id         |     51 records
+final_e_wallet                 | user_id         |      1 records
+lifejacket_subscription        | user_id         |      1 records
+manage_messages                | user_id         |      1 records
+previous_record                | user_id         |      1 records
+roi_e_wallet                   | user_id         |      1 records
+support_log                    | user_id         |      4 records
+updated_record                 | user_id         |      1 records
+user_addresses                 | user_id         |      1 records
+user_registration              | user_id         |      1 records
+visitor                        | user_id         |     35 records
+withdraw_confirm               | userid          |      2 records
+withdraw_request               | user_id         |      2 records
+working_e_wallet               | user_id         |      1 records
+
+ Scanning CLEANED DATABASE: crypto_transactions_cleaned
+--------------------------------------------------
+Total tables in cleaned database: 5
+mtitransactions                | userid          |     19 records
+mtiusers                       | id              |      1 records
+
+================================================================================
+SUMMARY REPORT
+================================================================================
+Target Account: 88295329
+Raw Database Tables: 14 tables, 103 total records
+Cleaned Database Tables: 2 tables, 20 total records
+
+RAW DATABASE BREAKDOWN:
+  credit_debit                   | user_id         |     51 records
+  visitor                        | user_id         |     35 records
+  support_log                    | user_id         |      4 records
+  withdraw_confirm               | userid          |      2 records
+  withdraw_request               | user_id         |      2 records
+  final_e_wallet                 | user_id         |      1 records
+  lifejacket_subscription        | user_id         |      1 records
+  manage_messages                | user_id         |      1 records
+  previous_record                | user_id         |      1 records
+  roi_e_wallet                   | user_id         |      1 records
+  updated_record                 | user_id         |      1 records
+  user_addresses                 | user_id         |      1 records
+  user_registration              | user_id         |      1 records
+  working_e_wallet               | user_id         |      1 records
+
+CLEANED DATABASE BREAKDOWN:
+  mtitransactions                | userid          |     19 records
+  mtiusers                       | id              |      1 records
+
+Tables ONLY in RAW database:
+  credit_debit (51 records)
+  final_e_wallet (1 records)
+  lifejacket_subscription (1 records)
+  manage_messages (1 records)
+  previous_record (1 records)
+  roi_e_wallet (1 records)
+  support_log (4 records)
+  updated_record (1 records)
+  user_addresses (1 records)
+  user_registration (1 records)
+  visitor (35 records)
+  withdraw_confirm (2 records)
+  withdraw_request (2 records)
+  working_e_wallet (1 records)
+
+Tables ONLY in CLEANED database:
+  mtitransactions (19 records)
+  mtiusers (1 records)
+
+ Report saved to: reports/account_summary_88295329_20251005_143241.txt
+Analysis complete!

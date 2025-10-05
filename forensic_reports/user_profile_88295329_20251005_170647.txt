@@ -1,0 +1,614 @@
+USER PROFILE REPORT
+Generated: 2025-10-05 17:06:47
+================================================================================
+
+User ID:        88295329
+Username:       hermanbester
+First Name:     Herman
+Last Name:      Bester
+Email:          herman.bester10@gmail.com
+Country:        South Africa
+City:           0
+
+IP Addresses:   14 found
+  1. 105.246.56.1
+  2. 41.13.74.128
+  3. 197.98.201.95
+  4. 105.244.88.252
+  5. 105.244.119.50
+  6. 105.244.119.212
+  7. 105.244.116.108
+  8. 196.23.154.113
+  9. 105.244.83.35
+  10. 105.244.119.67
+  11. 105.244.118.182
+  12. 105.244.90.220
+  13. 105.246.38.144
+  14. 155.93.232.128
+
+Wallet Addresses: 1 found
+  1. daddress: 365kCazksMwtbvwZaz5ChV8pw7ssD6iddo
+
+================================================================================
+RAW DATA FROM TABLES
+================================================================================
+
+
+--- user_registration ---
+
+Record #1:
+  id: 208022
+  user_id: 88295329
+  ref_id: 11001535
+  nom_id: 11001535
+  username: hermanbester
+  password: a533338d0bfbf6342106cf7d4aae0a8ec5fac34e6c69535028da58530b7d0d35
+  first_name: Herman
+  last_name: Bester
+  email: herman.bester10@gmail.com
+  address: 0
+  city: 0
+  state: 0
+  country: South Africa
+  zipcode: 
+  telephone: 0833218173
+  admin_status: 0
+  user_status: 0
+  registration_date: 2020-08-21
+  t_code: a533338d0bfbf6342106cf7d4aae0a8ec5fac34e6c69535028da58530b7d0d35
+  user_plan: 1
+  designation: Paid Member
+  aboutus: 0
+  dob: 0
+  sex: 0
+  image: 0
+  acc_name: 0
+  ac_no: 0
+  bank_nm: 0
+  branch_nm: 0
+  swift_code: 0
+  user_rank_name: Paid Member
+  ts: 2020-10-15 19:58:18
+  merried_status: 
+  last_login_date: 2020-10-13 16:29:41
+  current_login_date: 2020-10-15 19:58:18
+  binary_pos: left
+  id_card: 0
+  id_status: 0
+  master_account: 0
+  issued: 0
+  product_type: 105.246.56.1
+  terms: yes
+  issue_date: 2020-08-21 19:30:37
+  admin_remark1: 0
+  withdraw_status: 0
+  fund_status: 0
+  id_no: 0
+  kyc_status: 0
+  first_pair_status: 0
+  update_status: 1
+  btc_add: 0
+  user_acc_no: 0
+  founder: 1
+  Promo: 0
+  recovery: 0
+  secret: UABCLMCPP5XEYTVS
+  two_way: https://chart.googleapis.com/chart?chs=200x200&chld=M|0&cht=qr&chl=otpauth%3A%2F%2Ftotp%2Fhttps%3A%2F%2Fmymticlub.com%3Fsecret%3DUABCLMCPP5XEYTVS%26issuer%3DMTI%2B-%2Bhermanbester
+  hide_profile: 0
+
+--- visitor ---
+
+Record #1:
+  id: 7162706
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.246.56.1
+  ipcountry: 
+  times: 2020-08-21 19:34:13
+
+Record #2:
+  id: 7236663
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.246.56.1
+  ipcountry: 
+  times: 2020-08-22 18:12:51
+
+Record #3:
+  id: 7245215
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 41.13.74.128
+  ipcountry: 
+  times: 2020-08-22 20:10:26
+
+Record #4:
+  id: 7246144
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 41.13.74.128
+  ipcountry: 
+  times: 2020-08-22 20:23:54
+
+Record #5:
+  id: 7246320
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 41.13.74.128
+  ipcountry: 
+  times: 2020-08-22 20:26:50
+
+Record #6:
+  id: 7279213
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 197.98.201.95
+  ipcountry: 
+  times: 2020-08-23 10:31:17
+
+Record #7:
+  id: 7279605
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 197.98.201.95
+  ipcountry: 
+  times: 2020-08-23 10:38:02
+
+Record #8:
+  id: 7378320
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.88.252
+  ipcountry: 
+  times: 2020-08-24 16:50:41
+
+Record #9:
+  id: 7469493
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.88.252
+  ipcountry: 
+  times: 2020-08-25 18:38:11
+
+Record #10:
+  id: 7563185
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 197.98.201.95
+  ipcountry: 
+  times: 2020-08-26 21:32:51
+
+Record #11:
+  id: 7852790
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.119.50
+  ipcountry: 
+  times: 2020-08-30 18:56:25
+
+Record #12:
+  id: 8268310
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.119.212
+  ipcountry: 
+  times: 2020-09-04 16:17:19
+
+Record #13:
+  id: 8349764
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.116.108
+  ipcountry: 
+  times: 2020-09-05 21:34:32
+
+Record #14:
+  id: 8392821
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 197.98.201.95
+  ipcountry: 
+  times: 2020-09-06 16:58:49
+
+Record #15:
+  id: 8397407
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 197.98.201.95
+  ipcountry: 
+  times: 2020-09-06 18:16:58
+
+Record #16:
+  id: 8717024
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 196.23.154.113
+  ipcountry: ZA
+  times: 2020-09-11 11:16:42
+
+Record #17:
+  id: 8864495
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.83.35
+  ipcountry: ZA
+  times: 2020-09-13 19:06:14
+
+Record #18:
+  id: 9366302
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 197.98.201.95
+  ipcountry: ZA
+  times: 2020-09-20 14:58:46
+
+Record #19:
+  id: 9840490
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.119.67
+  ipcountry: ZA
+  times: 2020-09-27 17:57:58
+
+Record #20:
+  id: 10198395
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.118.182
+  ipcountry: ZA
+  times: 2020-10-02 17:21:05
+
+Record #21:
+  id: 10274628
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.118.182
+  ipcountry: ZA
+  times: 2020-10-03 17:44:26
+
+Record #22:
+  id: 10322409
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.118.182
+  ipcountry: ZA
+  times: 2020-10-04 15:56:15
+
+Record #23:
+  id: 10323518
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.118.182
+  ipcountry: ZA
+  times: 2020-10-04 16:13:39
+
+Record #24:
+  id: 10365028
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 196.23.154.113
+  ipcountry: ZA
+  times: 2020-10-05 08:38:30
+
+Record #25:
+  id: 10374340
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 197.98.201.95
+  ipcountry: ZA
+  times: 2020-10-05 11:00:51
+
+Record #26:
+  id: 10536359
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.90.220
+  ipcountry: ZA
+  times: 2020-10-07 16:11:22
+
+Record #27:
+  id: 10537086
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.90.220
+  ipcountry: ZA
+  times: 2020-10-07 16:23:30
+
+Record #28:
+  id: 10543577
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.90.220
+  ipcountry: ZA
+  times: 2020-10-07 18:21:51
+
+Record #29:
+  id: 10602749
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.90.220
+  ipcountry: ZA
+  times: 2020-10-08 16:14:25
+
+Record #30:
+  id: 10603050
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.90.220
+  ipcountry: ZA
+  times: 2020-10-08 16:18:45
+
+Record #31:
+  id: 10696815
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.244.90.220
+  ipcountry: ZA
+  times: 2020-10-09 20:31:17
+
+Record #32:
+  id: 10992194
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.246.38.144
+  ipcountry: ZA
+  times: 2020-10-13 16:02:39
+
+Record #33:
+  id: 10993868
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.246.38.144
+  ipcountry: ZA
+  times: 2020-10-13 16:26:14
+
+Record #34:
+  id: 10994126
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.246.38.144
+  ipcountry: ZA
+  times: 2020-10-13 16:29:41
+
+Record #35:
+  id: 11185790
+  user_id: 88295329
+  username: hermanbester
+  fullname: Herman Bester
+  ipadd: 105.246.38.144
+  ipcountry: ZA
+  times: 2020-10-15 19:58:18
+
+--- manage_messages ---
+
+Record #1:
+  id: 207825
+  user_id: 88295329
+  ref_id: 11001535
+  nom_id: 11001535
+  username: hermanbester
+  password: a533338d0bfbf6342106cf7d4aae0a8ec5fac34e6c69535028da58530b7d0d35
+  first_name: Herman
+  last_name: Bester
+  email: herman.bester10@gmail.com
+  address: 0
+  city: 0
+  state: 0
+  country: South Africa
+  zipcode: 
+  telephone: 0833218173
+  admin_status: 0
+  user_status: 0
+  registration_date: 2020-08-21
+  t_code: a533338d0bfbf6342106cf7d4aae0a8ec5fac34e6c69535028da58530b7d0d35
+  user_plan: 0
+  designation: Free Member
+  aboutus: 0
+  dob: 0
+  sex: 0
+  image: 0
+  acc_name: 0
+  ac_no: 0
+  bank_nm: 0
+  branch_nm: 0
+  swift_code: 0
+  user_rank_name: Free Member
+  ts: 2020-09-29 20:28:48
+  merried_status: 0
+  last_login_date: 0
+  current_login_date: 0
+  binary_pos: left
+  id_card: 0
+  id_status: 0
+  master_account: 0
+  issued: 0
+  product_type: 105.246.56.1
+  terms: yes
+  issue_date: 2020-08-21 19:30:37
+  admin_remark1: 0
+  withdraw_status: 0
+  fund_status: 0
+  id_no: 0
+  kyc_status: 0
+  first_pair_status: 0
+  update_status: 0
+  btc_add: 0
+  user_acc_no: 0
+  founder: 1
+  Promo: 0
+  recovery: 0
+  secret: 0
+  two_way: 0
+  hide_profile: 0
+
+--- previous_record ---
+
+Record #1:
+  id: 53174
+  user_id: 88295329
+  username: 0
+  password: 0
+  first_name: Herman
+  last_name: Bester
+  email: herman.bester10@gmal.com
+  address: 0
+  city: 0
+  state: 0
+  country: South Africa
+  zipcode: 0
+  telephone: 0833218173
+  t_code: 0
+  designation: 0
+  dob: 0
+  sex: 0
+  image: 0
+  acc_name: 0
+  ac_no: 0
+  bank_nm: 0
+  branch_nm: 0
+  ts: 2020-08-22 18:21:46
+  merried_status: 0
+  id_card: 0
+  id_no: 0
+
+--- updated_record ---
+
+Record #1:
+  id: 53133
+  user_id: 88295329
+  username: 0
+  password: 0
+  first_name: Herman
+  last_name: Bester
+  email: herman.bester10@gmal.com
+  address: 0
+  city: 0
+  state: 0
+  country: South Africa
+  zipcode: 0
+  telephone: 0
+  t_code: 0
+  designation: 0
+  dob: 0
+  sex: 0
+  image: 0
+  acc_name: 0
+  ac_no: 0
+  bank_nm: 0
+  branch_nm: 0
+  ts: 2020-08-22 18:21:46
+  merried_status: 
+  id_card: 0
+  id_no: 0
+
+--- support_log ---
+
+Record #1:
+  id: 42673
+  support_id: 8828
+  user_id: 88295329
+  ttype: Edit Profile
+  description: Member: 88295329
+  url: https://mymticlub.com/controlpanel/edit_member_profile.php?id=208022
+  ip_address: 155.93.232.128
+  ip_country: ZA
+  date: 2020-09-29 20:28:35
+
+Record #2:
+  id: 42674
+  support_id: 8828
+  user_id: 88295329
+  ttype: Edit Profile
+  description: Member: 88295329
+  url: https://mymticlub.com/controlpanel/edit_member_profile.php?id=208022
+  ip_address: 155.93.232.128
+  ip_country: ZA
+  date: 2020-09-29 20:28:48
+
+Record #3:
+  id: 42675
+  support_id: 8828
+  user_id: 88295329
+  ttype: Edit Profile
+  description: Changed email from herman.bester10@gmal.com to herman.bester10@gmail.com
+  url: https://mymticlub.com/controlpanel/edit_member_profile.php?id=208022
+  ip_address: 155.93.232.128
+  ip_country: ZA
+  date: 2020-09-29 20:28:48
+
+Record #4:
+  id: 42676
+  support_id: 8828
+  user_id: 88295329
+  ttype: Edit Profile
+  description: Member: 88295329
+  url: https://mymticlub.com/controlpanel/edit_member_profile.php?id=208022&msg=Profile%20Information%20Updated%20Successfully%20!
+  ip_address: 155.93.232.128
+  ip_country: ZA
+  date: 2020-09-29 20:28:53
+
+--- user_addresses ---
+
+Record #1:
+  id: 103650
+  user_id: 88295329
+  daddress: 365kCazksMwtbvwZaz5ChV8pw7ssD6iddo
+  firstadd: 1
+  ts: 2020-08-22 18:13:20
+  missing_payment: 0
+
+--- withdraw_confirm ---
+
+Record #1:
+  id: 181242
+  token: RD2SZLSMB480A5WO0C9TPLROASTDIJ
+  userid: 88295329
+  amount: 0.01573039
+  description: 1GgYt34DyauBR5m54ocu8BD17iZmsANsiD
+  walletfrom: roi_e_wallet
+  ts: 2020-10-08 16:15:48
+  status: 1
+
+Record #2:
+  id: 189071
+  token: C0ZGDYWAM3EJED2LYF0I45QVKH2GP0
+  userid: 88295329
+  amount: 0.00550000
+  description: 12dW3P6SPwsbkjqSp58ZTsDzTeFwGWsU1d
+  walletfrom: roi_e_wallet
+  ts: 2020-10-13 16:28:29
+  status: 1
