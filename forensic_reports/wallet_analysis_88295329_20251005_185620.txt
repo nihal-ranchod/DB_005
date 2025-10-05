@@ -1,0 +1,1230 @@
+WALLET ANALYSIS REPORT
+Generated: 2025-10-05 18:56:20
+User ID: 88295329
+================================================================================
+
+================================================================================
+SECTION 1: CRYPTOCURRENCY WALLET ADDRESSES
+================================================================================
+
+--- DEPOSIT ADDRESS ---
+Address: 365kCazksMwtbvwZaz5ChV8pw7ssD6iddo
+Type: Bitcoin Deposit Address
+Purpose: This is where the user deposits funds INTO the platform
+First Added: 1
+Timestamp: 2020-08-22 18:13:20
+
+--- WITHDRAWAL ADDRESS 1 ---
+No withdrawal address 1 set
+
+--- WITHDRAWAL ADDRESS 2 ---
+No withdrawal address 2 set
+
+Missing Payment Flag: 0
+
+================================================================================
+SECTION 2: INTERNAL E-WALLET BALANCES
+================================================================================
+
+--- WORKING WALLET ---
+Description: Holds referral bonuses, commissions, and active earnings
+Balance: 0.0036666042 BTC
+Status: 0
+Record ID: 207625
+
+--- ROI WALLET ---
+Description: Holds daily ROI (Return on Investment) income
+Balance: 0.0000000020 BTC
+Status: 0
+Record ID: 207625
+
+--- FINAL E-WALLET ---
+Description: Purpose unclear - appears mostly unused
+Balance: 0.0000000000 BTC
+Status: 0
+Record ID: 208654
+
+================================================================================
+TOTAL E-WALLET BALANCE: 0.0036666062 BTC
+================================================================================
+
+================================================================================
+SECTION 3: E-WALLET USAGE ANALYSIS
+================================================================================
+Analyzing which e-wallets were used in transactions...
+
+Found 6 different e-wallet types used:
+
+E-Wallet Type                  | Transactions    | Total Credits        | Total Debits        
+------------------------------------------------------------------------------------------
+ROI Wallet                     | 40              | 0.0026976542         | 0.0000000000        
+Withdrawal Wallet              | 3               | 0.0000000000         | 0.0402262000        
+Income Wallet                  | 3               | 0.0212303900         | 0.0032035300        
+Pool Wallet                    | 3               | 0.0032035300         | 0.0212303900        
+Activation Wallet              | 1               | 0.0189958100         | 0.0000000000        
+Working Wallet                 | 1               | 0.0032035320         | 0.0000000000        
+
+================================================================================
+DETAILED E-WALLET TRANSACTION BREAKDOWN
+================================================================================
+
+--- ROI WALLET ---
+Total Transactions: 40
+
+Transaction #1:
+  ID: 10463214
+  Transaction No: 1462657846
+  Invoice/Reference: 1462657846
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000179794 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.094649520602061
+  Status: 0
+  Date: 2020-08-25
+  Timestamp: 2020-08-24 23:59:59
+  Cause: 0.01899581
+  Remark: 0
+
+Transaction #2:
+  ID: 10623770
+  Transaction No: 4219837658
+  Invoice/Reference: 4219837658
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001667445 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.87696611121501
+  Status: 0
+  Date: 2020-08-26
+  Timestamp: 2020-08-25 23:59:59
+  Cause: 0.019013789443099
+  Remark: 0
+
+Transaction #3:
+  ID: 10785719
+  Transaction No: 9481662948
+  Invoice/Reference: 9481662948
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001124908 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.58648409913086
+  Status: 0
+  Date: 2020-08-27
+  Timestamp: 2020-08-26 23:59:59
+  Cause: 0.019180533932973
+  Remark: 0
+
+Transaction #4:
+  ID: 10946795
+  Transaction No: 4047293595
+  Invoice/Reference: 4047293595
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000582156 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.3017444797578
+  Status: 0
+  Date: 2020-08-28
+  Timestamp: 2020-08-27 23:59:59
+  Cause: 0.019293024714619
+  Remark: 0
+
+Transaction #5:
+  ID: 11108719
+  Transaction No: 3616780516
+  Invoice/Reference: 3616780516
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000195866 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.10121602943041
+  Status: 0
+  Date: 2020-08-29
+  Timestamp: 2020-08-28 23:59:59
+  Cause: 0.019351240351673
+  Remark: 0
+
+Transaction #6:
+  ID: 11386525
+  Transaction No: 2145718938
+  Invoice/Reference: 2145718938
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000296322 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.13126487108972
+  Status: 0
+  Date: 2020-09-01
+  Timestamp: 2020-08-31 23:59:59
+  Cause: 0.022574356908803
+  Remark: 0
+
+Transaction #7:
+  ID: 11558466
+  Transaction No: 6027415998
+  Invoice/Reference: 6027415998
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001275847 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.56443446105961
+  Status: 0
+  Date: 2020-09-02
+  Timestamp: 2020-09-01 23:59:59
+  Cause: 0.022603989109298
+  Remark: 0
+
+Transaction #8:
+  ID: 11726392
+  Transaction No: 6812100587
+  Invoice/Reference: 6812100587
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000506822 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.222959364336
+  Status: 0
+  Date: 2020-09-03
+  Timestamp: 2020-09-02 23:59:59
+  Cause: 0.022731573813405
+  Remark: 0
+
+Transaction #9:
+  ID: 11893930
+  Transaction No: 9786503924
+  Invoice/Reference: 9786503924
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000210951 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.092594625700104
+  Status: 0
+  Date: 2020-09-04
+  Timestamp: 2020-09-03 23:59:59
+  Cause: 0.022782255985883
+  Remark: 0
+
+Transaction #10:
+  ID: 12072695
+  Transaction No: 8796461626
+  Invoice/Reference: 8796461626
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001037874 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.4551408026683
+  Status: 0
+  Date: 2020-09-05
+  Timestamp: 2020-09-04 23:59:59
+  Cause: 0.02280335113054
+  Remark: 0
+
+Transaction #11:
+  ID: 12354305
+  Transaction No: 3935330429
+  Invoice/Reference: 3935330429
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000538095 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.23490284826325
+  Status: 0
+  Date: 2020-09-08
+  Timestamp: 2020-09-07 23:59:59
+  Cause: 0.02290713848591
+  Remark: 0
+
+Transaction #12:
+  ID: 12530203
+  Transaction No: 5650769458
+  Invoice/Reference: 5650769458
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000927515 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.40395344114793
+  Status: 0
+  Date: 2020-09-09
+  Timestamp: 2020-09-08 23:59:59
+  Cause: 0.022960948006669
+  Remark: 0
+
+Transaction #13:
+  ID: 12704466
+  Transaction No: 5289356898
+  Invoice/Reference: 5289356898
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000919406 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.39881065283542
+  Status: 0
+  Date: 2020-09-10
+  Timestamp: 2020-09-09 23:59:59
+  Cause: 0.023053699546262
+  Remark: 0
+
+Transaction #14:
+  ID: 12879364
+  Transaction No: 9581599240
+  Invoice/Reference: 9581599240
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000736276 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.31810550946131
+  Status: 0
+  Date: 2020-09-11
+  Timestamp: 2020-09-10 23:59:59
+  Cause: 0.023145640155926
+  Remark: 0
+
+Transaction #15:
+  ID: 13053126
+  Transaction No: 6963034942
+  Invoice/Reference: 6963034942
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000765173 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.32954227078523
+  Status: 0
+  Date: 2020-09-12
+  Timestamp: 2020-09-11 23:59:59
+  Cause: 0.023219267712462
+  Remark: 0
+
+Transaction #16:
+  ID: 13345611
+  Transaction No: 7559498736
+  Invoice/Reference: 7559498736
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000278236 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.11943629935003
+  Status: 0
+  Date: 2020-09-14
+  Timestamp: 2020-09-14 23:59:59
+  Cause: 0.023295785014541
+  Remark: 0
+
+Transaction #17:
+  ID: 13526278
+  Transaction No: 9838342491
+  Invoice/Reference: 9838342491
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001171908 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.50245584499955
+  Status: 0
+  Date: 2020-09-15
+  Timestamp: 2020-09-15 23:59:59
+  Cause: 0.023323608638067
+  Remark: 0
+
+Transaction #18:
+  ID: 13712276
+  Transaction No: 1255857582
+  Invoice/Reference: 1255857582
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000502670 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.21444219166413
+  Status: 0
+  Date: 2020-09-17
+  Timestamp: 2020-09-16 23:59:59
+  Cause: 0.023440799472934
+  Remark: 0
+
+Transaction #19:
+  ID: 13888676
+  Transaction No: 5419081245
+  Invoice/Reference: 5419081245
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000979477 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.4169573009627
+  Status: 0
+  Date: 2020-09-18
+  Timestamp: 2020-09-17 23:59:59
+  Cause: 0.023491066437067
+  Remark: 0
+
+Transaction #20:
+  ID: 14070985
+  Transaction No: 2116939652
+  Invoice/Reference: 2116939652
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000611899 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.25940014731588
+  Status: 0
+  Date: 2020-09-18
+  Timestamp: 2020-09-18 23:59:59
+  Cause: 0.02358901415365
+  Remark: 0
+
+Transaction #21:
+  ID: 14381525
+  Transaction No: 8971546876
+  Invoice/Reference: 8971546876
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001770099 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.74844998178389
+  Status: 0
+  Date: 2020-09-21
+  Timestamp: 2020-09-21 23:59:59
+  Cause: 0.023650204091115
+  Remark: 0
+
+Transaction #22:
+  ID: 14569214
+  Transaction No: 5051319556
+  Invoice/Reference: 5051319556
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000725235 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.30437248127888
+  Status: 0
+  Date: 2020-09-23
+  Timestamp: 2020-09-22 23:59:59
+  Cause: 0.023827214039327
+  Remark: 0
+
+Transaction #23:
+  ID: 14755155
+  Transaction No: 7467185237
+  Invoice/Reference: 7467185237
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000801401 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.33531795311794
+  Status: 0
+  Date: 2020-09-24
+  Timestamp: 2020-09-23 23:59:59
+  Cause: 0.023899737521918
+  Remark: 0
+
+Transaction #24:
+  ID: 14938349
+  Transaction No: 1906486203
+  Invoice/Reference: 1906486203
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001280495 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.53398719129283
+  Status: 0
+  Date: 2020-09-24
+  Timestamp: 2020-09-24 23:59:59
+  Cause: 0.023979877632577
+  Remark: 0
+
+Transaction #25:
+  ID: 15125039
+  Transaction No: 3352608426
+  Invoice/Reference: 3352608426
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000445712 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.18488212988426
+  Status: 0
+  Date: 2020-09-25
+  Timestamp: 2020-09-25 23:59:59
+  Cause: 0.024107927107623
+  Remark: 0
+
+Transaction #26:
+  ID: 15436150
+  Transaction No: 8921396650
+  Invoice/Reference: 8921396650
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000998780 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.41353082648336
+  Status: 0
+  Date: 2020-09-29
+  Timestamp: 2020-09-28 23:59:59
+  Cause: 0.024152498356731
+  Remark: 0
+
+Transaction #27:
+  ID: 15628639
+  Transaction No: 4638517267
+  Invoice/Reference: 4638517267
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000887550 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.365964182473
+  Status: 0
+  Date: 2020-09-29
+  Timestamp: 2020-09-29 23:59:59
+  Cause: 0.024252376382802
+  Remark: 0
+
+Transaction #28:
+  ID: 15821791
+  Transaction No: 5483635030
+  Invoice/Reference: 5483635030
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000300454 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.12343476952127
+  Status: 0
+  Date: 2020-10-01
+  Timestamp: 2020-09-30 23:59:59
+  Cause: 0.024341131393761
+  Remark: 0
+
+Transaction #29:
+  ID: 16016314
+  Transaction No: 8273574760
+  Invoice/Reference: 8273574760
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001562389 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.64108073768997
+  Status: 0
+  Date: 2020-10-01
+  Timestamp: 2020-10-01 23:59:59
+  Cause: 0.024371176813196
+  Remark: 0
+
+Transaction #30:
+  ID: 16208671
+  Transaction No: 5203584095
+  Invoice/Reference: 5203584095
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0001035952 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.42236512284421
+  Status: 0
+  Date: 2020-10-03
+  Timestamp: 2020-10-02 23:59:59
+  Cause: 0.024527415733294
+  Remark: 0
+
+Transaction #31:
+  ID: 16525849
+  Transaction No: 7301042019
+  Invoice/Reference: 7301042019
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000448339 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.18202222738222
+  Status: 0
+  Date: 2020-10-06
+  Timestamp: 2020-10-05 23:59:59
+  Cause: 0.024631010982886
+  Remark: 0
+
+Transaction #32:
+  ID: 16723905
+  Transaction No: 6221446097
+  Invoice/Reference: 6221446097
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000545453 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.22104749693062
+  Status: 0
+  Date: 2020-10-06
+  Timestamp: 2020-10-06 23:59:59
+  Cause: 0.024675844897704
+  Remark: 0
+
+Transaction #33:
+  ID: 16922698
+  Transaction No: 4924728318
+  Invoice/Reference: 4924728318
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000262961 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.29217897597175
+  Status: 0
+  Date: 2020-10-08
+  Timestamp: 2020-10-07 23:59:59
+  Cause: 0.0090000002351968
+  Remark: 0
+
+Transaction #34:
+  ID: 17121378
+  Transaction No: 6809789407
+  Invoice/Reference: 6809789407
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000314448 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.34836863485949
+  Status: 0
+  Date: 2020-10-08
+  Timestamp: 2020-10-08 23:59:59
+  Cause: 0.0090262963437214
+  Remark: 0
+
+Transaction #35:
+  ID: 17319884
+  Transaction No: 6042253727
+  Invoice/Reference: 6042253727
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000139506 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.15401808316653
+  Status: 0
+  Date: 2020-10-09
+  Timestamp: 2020-10-09 23:59:59
+  Cause: 0.0090577411290724
+  Remark: 0
+
+Transaction #36:
+  ID: 17653248
+  Transaction No: 9655830032
+  Invoice/Reference: 9655830032
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000356615 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.39310768204317
+  Status: 0
+  Date: 2020-10-13
+  Timestamp: 2020-10-12 23:59:59
+  Cause: 0.0090716916883376
+  Remark: 0
+
+Transaction #37:
+  ID: 17861011
+  Transaction No: 9892152000
+  Invoice/Reference: 9892152000
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000294392 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.8160893017769
+  Status: 0
+  Date: 2020-10-14
+  Timestamp: 2020-10-13 23:59:59
+  Cause: 0.0036073532052557
+  Remark: 0
+
+Transaction #38:
+  ID: 18071127
+  Transaction No: 9086517800
+  Invoice/Reference: 9086517800
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000114007 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.31348165061304
+  Status: 0
+  Date: 2020-10-15
+  Timestamp: 2020-10-14 23:59:59
+  Cause: 0.0036367924288411
+  Remark: 0
+
+Transaction #39:
+  ID: 18270869
+  Transaction No: 5838571082
+  Invoice/Reference: 5838571082
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000068034 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.18648617275205
+  Status: 0
+  Date: 2020-10-15
+  Timestamp: 2020-10-15 23:59:59
+  Cause: 0.0036481931057764
+  Remark: 0
+
+Transaction #40:
+  ID: 18477010
+  Transaction No: 5344445238
+  Invoice/Reference: 5344445238
+  Type: Roi Income
+  Description: Earn Roi Income
+  Credit Amount: 0.0000116077 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 123456
+  Product Name: 0.31758444336182
+  Status: 0
+  Date: 2020-10-17
+  Timestamp: 2020-10-16 23:59:59
+  Cause: 0.003654996481474
+  Remark: 0
+
+
+--- WITHDRAWAL WALLET ---
+Total Transactions: 3
+
+Transaction #1:
+  ID: 10259050
+  Transaction No: 2012954142
+  Invoice/Reference: 2012954142
+  Type: Package Upgrade
+  Description: Package Upgrade by 88295329
+  Credit Amount: 0.0000000000 BTC
+  Debit Amount: 0.0189958100 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 88295329
+  Product Name: Package Upgrade by 88295329
+  Status: 0
+  Date: 2020-08-22
+  Timestamp: 2020-08-22 18:43:33
+  Cause: Package Upgrade by 88295329 
+  Remark: Package Upgrade 88295329
+
+Transaction #2:
+  ID: 16973466
+  Transaction No: 279982
+  Invoice/Reference: 279982
+  Type: Withdrawal Request
+  Description: Withdrawal Request From Admin
+  Credit Amount: 0.0000000000 BTC
+  Debit Amount: 0.0157303900 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 123456
+  Sender ID: 88295329
+  Product Name: Withdrawal Request
+  Status: 0
+  Date: 2020-10-08
+  Timestamp: 2020-10-08 16:18:58
+  Cause: 0
+  Remark: Withdrawal Request
+
+Transaction #3:
+  ID: 17711061
+  Transaction No: 612299
+  Invoice/Reference: 612299
+  Type: Withdrawal Request
+  Description: Withdrawal Request From Admin
+  Credit Amount: 0.0000000000 BTC
+  Debit Amount: 0.0055000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 123456
+  Sender ID: 88295329
+  Product Name: Withdrawal Request
+  Status: 0
+  Date: 2020-10-13
+  Timestamp: 2020-10-13 16:29:53
+  Cause: 0
+  Remark: Withdrawal Request
+
+
+--- INCOME WALLET ---
+Total Transactions: 3
+
+Transaction #1:
+  ID: 11211538
+  Transaction No: 5212033601
+  Invoice/Reference: 5212033601
+  Type: Fund Transfer
+  Description: Fund Transfer from income wallet to pool wallet
+  Credit Amount: 0.0000000000 BTC
+  Debit Amount: 0.0032035300 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 88295329
+  Product Name: Internal Fund Transfer
+  Status: 0
+  Date: 2020-08-30
+  Timestamp: 2020-08-30 18:59:59
+  Cause: Internal Fund Transfer
+  Remark: Internal Fund Transfer
+
+Transaction #2:
+  ID: 16774926
+  Transaction No: 1289772048
+  Invoice/Reference: 1289772048
+  Type: Fund Transfer
+  Description: Fund Transfer from pool wallet to income wallet
+  Credit Amount: 0.0157303900 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 88295329
+  Product Name: Internal Fund Transfer
+  Status: 0
+  Date: 2020-10-07
+  Timestamp: 2020-10-07 16:19:24
+  Cause: Internal Fund Transfer
+  Remark: Internal Fund Transfer
+
+Transaction #3:
+  ID: 17711014
+  Transaction No: 1130023128
+  Invoice/Reference: 1130023128
+  Type: Fund Transfer
+  Description: Fund Transfer from pool wallet to income wallet
+  Credit Amount: 0.0055000000 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 88295329
+  Product Name: Internal Fund Transfer
+  Status: 0
+  Date: 2020-10-13
+  Timestamp: 2020-10-13 16:27:00
+  Cause: Internal Fund Transfer
+  Remark: Internal Fund Transfer
+
+
+--- POOL WALLET ---
+Total Transactions: 3
+
+Transaction #1:
+  ID: 11211539
+  Transaction No: 5212033601
+  Invoice/Reference: 5212033601
+  Type: Fund Transfer
+  Description: Fund Transfer from income wallet to pool wallet
+  Credit Amount: 0.0032035300 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 88295329
+  Product Name: Internal Fund Transfer
+  Status: 0
+  Date: 2020-08-30
+  Timestamp: 2020-08-30 18:59:59
+  Cause: Internal Fund Transfer
+  Remark: Internal Fund Transfer
+
+Transaction #2:
+  ID: 16774925
+  Transaction No: 1289772048
+  Invoice/Reference: 1289772048
+  Type: Fund Transfer
+  Description: Fund Transfer from pool wallet to main wallet
+  Credit Amount: 0.0000000000 BTC
+  Debit Amount: 0.0157303900 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 88295329
+  Product Name: Internal Fund Transfer
+  Status: 0
+  Date: 2020-10-07
+  Timestamp: 2020-10-07 16:19:24
+  Cause: Internal Fund Transfer
+  Remark: Internal Fund Transfer
+
+Transaction #3:
+  ID: 17711013
+  Transaction No: 1130023128
+  Invoice/Reference: 1130023128
+  Type: Fund Transfer
+  Description: Fund Transfer from pool wallet to main wallet
+  Credit Amount: 0.0000000000 BTC
+  Debit Amount: 0.0055000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 88295329
+  Product Name: Internal Fund Transfer
+  Status: 0
+  Date: 2020-10-13
+  Timestamp: 2020-10-13 16:27:00
+  Cause: Internal Fund Transfer
+  Remark: Internal Fund Transfer
+
+
+--- ACTIVATION WALLET ---
+Total Transactions: 1
+
+Transaction #1:
+  ID: 10259042
+  Transaction No: 6144896622
+  Invoice/Reference: 7bb14cdd8ed2940e89f04b6ee3c061c2b89f82f6a248a63a50743cce059369ad
+  Type: Payment Approved
+  Description: Payment Approved From Admin
+  Credit Amount: 0.0189958100 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 123456
+  Sender ID: 88295329
+  Product Name: Payment Approved
+  Status: 0
+  Date: 2020-08-22
+  Timestamp: 2020-08-22 18:43:30
+  Cause: 0
+  Remark: Payment Approved
+
+
+--- WORKING WALLET ---
+Total Transactions: 1
+
+Transaction #1:
+  ID: 10265297
+  Transaction No: 3358305742
+  Invoice/Reference: 3358305742
+  Type: Referral Bonus
+  Description: Earn Referral Bonus from 25907866 for Package
+  Credit Amount: 0.0032035320 BTC
+  Debit Amount: 0.0000000000 BTC
+  Admin Charge: 0.0000000000 BTC
+  Receiver ID: 88295329
+  Sender ID: 25907866
+  Product Name: Referral Bonus
+  Status: 0
+  Date: 2020-08-22
+  Timestamp: 2020-08-22 22:31:03
+  Cause: Commission of USD 0.003203532 For Package
+  Remark: Referral Bonus
+
+
+================================================================================
+SECTION 4: DEPOSIT ANALYSIS
+================================================================================
+
+User's Deposit Address (daddress): 365kCazksMwtbvwZaz5ChV8pw7ssD6iddo
+This is the Bitcoin address where funds should be deposited.
+
+
+Found 1 deposit-related transaction(s)
+
+
+================================================================================
+DEPOSIT #1
+================================================================================
+Deposit Address: 365kCazksMwtbvwZaz5ChV8pw7ssD6iddo
+Transaction ID: 10259042
+Transaction No: 6144896622
+Type: Payment Approved
+Description: Payment Approved From Admin
+Amount: 0.0189958100 BTC
+Admin Charge: 0.0000000000 BTC
+Receiver ID: 123456
+Sender ID: 88295329
+Invoice/Hash: 7bb14cdd8ed2940e89f04b6ee3c061c2b89f82f6a248a63a50743cce059369ad
+Product Name: Payment Approved
+E-Wallet Used: Activation Wallet
+Status: 0
+Date: 2020-08-22
+Timestamp: 2020-08-22 18:43:30
+Cause: 0
+Remark: Payment Approved
+
+================================================================================
+TOTAL DEPOSITS: 0.0189958100 BTC
+================================================================================
+
+================================================================================
+SECTION 5: WITHDRAWAL ANALYSIS
+================================================================================
+
+--------------------------------------------------------------------------------
+PART A: WITHDRAWAL REQUESTS (withdraw_request table)
+--------------------------------------------------------------------------------
+
+Found 2 withdrawal request(s)
+
+
+================================================================================
+WITHDRAWAL REQUEST #1
+================================================================================
+id: 140231
+transaction_number: 279982
+user_id: 88295329
+first_name: 105.244.90.220
+last_name: ZA
+acc_name: 
+acc_number: 
+bank_nm: 
+branch_nm: 
+swift_code: 
+request_amount: 0.01573039
+description: 1GgYt34DyauBR5m54ocu8BD17iZmsANsiD
+status: 1
+posted_date: 2020-10-08
+admin_remark: 
+admin_response_date: 2020-10-09
+withdraw_wallet: roi_e_wallet
+total_paid_amount: 0.01573039
+transaction_charge: 0
+ts: 2020-10-08 16:18:58
+btcamt: 
+txid: ec404d48443bc9d62520bdf664ee0ebec0c696e6cbd59f16f55a4876a4968f8d
+tsver: 2020-10-09 03:04:42
+
+================================================================================
+WITHDRAWAL REQUEST #2
+================================================================================
+id: 147179
+transaction_number: 612299
+user_id: 88295329
+first_name: 105.246.38.144
+last_name: ZA
+acc_name: 
+acc_number: 
+bank_nm: 
+branch_nm: 
+swift_code: 
+request_amount: 0.0055
+description: 12dW3P6SPwsbkjqSp58ZTsDzTeFwGWsU1d
+status: 1
+posted_date: 2020-10-13
+admin_remark: 
+admin_response_date: 2020-10-14
+withdraw_wallet: roi_e_wallet
+total_paid_amount: 0.00550000
+transaction_charge: 0
+ts: 2020-10-13 16:29:53
+btcamt: 
+txid: 1a29b15bd28211e778dccffe5f36acaa8c1a553f8437916319431c14539d2d9f
+tsver: 2020-10-14 10:22:28
+
+================================================================================
+TOTAL REQUESTED: 0.0000000000 BTC
+================================================================================
+
+--------------------------------------------------------------------------------
+PART B: WITHDRAWAL CONFIRMATIONS (withdraw_confirm table)
+--------------------------------------------------------------------------------
+
+Found 2 withdrawal confirmation(s)
+
+
+================================================================================
+WITHDRAWAL CONFIRMATION #1
+================================================================================
+id: 181242
+token: RD2SZLSMB480A5WO0C9TPLROASTDIJ
+userid: 88295329
+amount: 0.0157303900 BTC
+description: 1GgYt34DyauBR5m54ocu8BD17iZmsANsiD
+walletfrom: roi_e_wallet
+ts: 2020-10-08 16:15:48
+status: 1
+
+================================================================================
+WITHDRAWAL CONFIRMATION #2
+================================================================================
+id: 189071
+token: C0ZGDYWAM3EJED2LYF0I45QVKH2GP0
+userid: 88295329
+amount: 0.0055000000 BTC
+description: 12dW3P6SPwsbkjqSp58ZTsDzTeFwGWsU1d
+walletfrom: roi_e_wallet
+ts: 2020-10-13 16:28:29
+status: 1
+
+================================================================================
+TOTAL CONFIRMED: 0.0212303900 BTC
+================================================================================
+
+--------------------------------------------------------------------------------
+PART C: WITHDRAWAL TRANSACTIONS (credit_debit table)
+--------------------------------------------------------------------------------
+
+Found 2 withdrawal transaction(s)
+
+
+================================================================================
+WITHDRAWAL TRANSACTION #1
+================================================================================
+id: 16973466
+transaction_no: 279982
+user_id: 88295329
+credit_amt: 0
+debit_amt: 0.01573039
+admin_charge: 0
+receiver_id: 123456
+sender_id: 88295329
+receive_date: 2020-10-08
+ttype: Withdrawal Request
+TranDescription: Withdrawal Request From Admin
+Cause: 0
+Remark: Withdrawal Request
+invoice_no: 279982
+product_name: Withdrawal Request
+status: 0
+ewallet_used_by: Withdrawal Wallet
+ts: 2020-10-08 16:18:58
+current_url: http://mymticlub.com/userpanel/withdrawal-request-code.php
+BinaryFund: 0
+TradersFund: 0
+LeadersFund: 0
+MTIFund: 0
+FoundersPoolFund: 0
+CoachingFund: 0
+OldRecovery: 0
+CompanyTurnover: 0
+SharePaid: 1
+IfFounder: 0
+
+================================================================================
+WITHDRAWAL TRANSACTION #2
+================================================================================
+id: 17711061
+transaction_no: 612299
+user_id: 88295329
+credit_amt: 0
+debit_amt: 0.00550000
+admin_charge: 0
+receiver_id: 123456
+sender_id: 88295329
+receive_date: 2020-10-13
+ttype: Withdrawal Request
+TranDescription: Withdrawal Request From Admin
+Cause: 0
+Remark: Withdrawal Request
+invoice_no: 612299
+product_name: Withdrawal Request
+status: 0
+ewallet_used_by: Withdrawal Wallet
+ts: 2020-10-13 16:29:53
+current_url: http://mymticlub.com/userpanel/withdrawal-request-code.php
+BinaryFund: 0
+TradersFund: 0
+LeadersFund: 0
+MTIFund: 0
+FoundersPoolFund: 0
+CoachingFund: 0
+OldRecovery: 0
+CompanyTurnover: 0
+SharePaid: 0
+IfFounder: 0
+
+================================================================================
+ANALYSIS COMPLETE
+================================================================================
+
+Report saved to: forensic_reports/wallet_analysis_88295329_20251005_185620.txt
