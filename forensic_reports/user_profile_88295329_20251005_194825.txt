@@ -1,5 +1,5 @@
 USER PROFILE REPORT
-Generated: 2025-10-05 17:06:47
+Generated: 2025-10-05 19:48:25
 ================================================================================
 
 User ID:        88295329
@@ -7,8 +7,17 @@ Username:       hermanbester
 First Name:     Herman
 Last Name:      Bester
 Email:          herman.bester10@gmail.com
+Telephone:      0833218173
+Designation:    Paid Member
+Rank:           Paid Member
 Country:        South Africa
 City:           0
+
+================================================================================
+DUPLICATE ACCOUNT ANALYSIS
+================================================================================
+
+✓ No duplicate accounts detected.
 
 IP Addresses:   14 found
   1. 105.246.56.1
